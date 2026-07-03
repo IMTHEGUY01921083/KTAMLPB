@@ -420,7 +420,7 @@ function Update:Window(patchText)
             icon.BackgroundTransparency = 1
             icon.Position = UDim2.new(0, 8, 0, 8)
             icon.Size = UDim2.new(0, 45, 0, 45)
-            icon.Image = 'rbxassetid://129191493254616'
+            icon.Image = '//129191493254616'
 
             local title = Instance.new("TextLabel")
             title.Parent = frame
